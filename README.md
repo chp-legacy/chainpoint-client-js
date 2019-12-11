@@ -1,5 +1,10 @@
+# Important Notice
+
+This software is deprecated and is no longer supported. 
+
 # Chainpoint Client (JavaScript)
 
+[![Deprecation Notice](https://img.shields.io/badge/deprecated-legacy-lightgrey)](https://github.com/tnt-legacy)
 [![npm](https://img.shields.io/npm/l/chainpoint-client.svg)](https://www.npmjs.com/package/chainpoint-client)
 [![npm](https://img.shields.io/npm/v/chainpoint-client.svg)](https://www.npmjs.com/package/chainpoint-client)
 
