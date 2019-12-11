@@ -10,7 +10,7 @@ This software is deprecated and is no longer supported.
 
 ## About
 
-A client for creating and verifying [Chainpoint](https://chainpoint.org) proofs.
+A client for creating and verifying version 3 [Chainpoint](https://chainpoint.org) proofs.
 
 The Chainpoint Client handles communication with a distributed network of Nodes that make up the Chainpoint Network.
 
